@@ -66,8 +66,8 @@ Feedback was collected using a **Google Form**.
 ## 📸 Screenshots
  
 ## 📋 User Feedback Screenshot
+>You can see it under Feedback (1).png and Feedback (2).png
 
-![Feedback](./Feedback (1).png)
 
 
 ---

@@ -65,8 +65,11 @@ Feedback was collected using a **Google Form**.
 
 ## 📸 Screenshots
  
-![Feedback Screenshot](./feedback[1].png)
-(./feedback[2].png)
+## 📋 User Feedback Screenshot
+
+![Feedback Part 1](https://github.com/Dhanyashree-k/Zomato-Redesign/blob/main/Feedback%20(1).png?raw=true)
+![Feedback Part 2](https://github.com/Dhanyashree-k/Zomato-Redesign/blob/main/Feedback%20(2).png?raw=true)
+
 
 ---
 

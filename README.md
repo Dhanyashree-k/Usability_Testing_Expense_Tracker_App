@@ -64,11 +64,10 @@ Feedback was collected using a **Google Form**.
 ---
 
 ## 📸 Screenshots
-*(Add your Google Form response screenshots here)*  
+ 
 Example:  
-- `/Feedback (1).png`  
-- `/Feedback (2).png`
+- ./Feedback (1).png  
+- ./Feedback (2).png
 
 ---
 
-## 🧾 Files

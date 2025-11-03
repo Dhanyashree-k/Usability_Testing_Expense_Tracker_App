@@ -65,9 +65,8 @@ Feedback was collected using a **Google Form**.
 
 ## 📸 Screenshots
  
-Example:  
-- ./Feedback (1).png  
-- ./Feedback (2).png
+![Feedback Screenshot](./feedback[1].png)
+(./feedback[2].png)
 
 ---
 
